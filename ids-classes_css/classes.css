@@ -1,0 +1,12 @@
+:root{
+    --corPrincipal:#66ffcc;
+}
+.centralizarConteudo{
+    text-align: center;
+}
+.bordas{
+    border: 4px solid var(--corPrincipal) !important;
+}
+.bordas-componentes{
+    border: 2px solid var(--corPrincipal) !important;
+}

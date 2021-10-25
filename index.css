@@ -1,0 +1,21 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    box-sizing: border-box;
+    overflow: hidden !important;
+    color: #fff;
+}
+
+body{
+    background-image: url('./imgs/background-body.jpeg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+
+tbody,th,tr,td{
+    text-align: center;
+    color: #fff !important;
+}
+input{
+    text-align: center !important;
+}

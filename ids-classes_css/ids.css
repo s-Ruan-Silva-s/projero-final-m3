@@ -1,0 +1,41 @@
+#boxTop{
+    background-image: url('../imgs/background-top.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding:10px !important;
+}
+#boxCentro{
+    position: relative;
+    margin-top: 50px;
+}
+#logoTop{
+    max-width: 90px !important;
+    max-height: 90px !important;
+}
+#paginacao{
+    background-color: #3c3c3c;
+    border: 4px solid #66ffcc;
+    padding: 10PX;
+    max-height: 50px;
+}
+#paginacao a{
+    color: #66ffcc;
+    text-decoration: none;
+}
+#logo_centro{
+    max-width: 150px;
+    max-height: 150px;
+}
+#formulario{
+    background-color: rgba(60, 60, 60, 0.8);
+    
+}
+#formulario input[name="enviar"]{
+    background-color: #3c3c3c;
+}
+#formulario input[name="nomeDoProjeto"]{
+    background-color: #3c3c3c;
+    border-top: none !important;
+    border-right: none !important;
+    border-left: none !important;
+}
